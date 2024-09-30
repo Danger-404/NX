@@ -1,0 +1,1 @@
+'[FBAN/FB4A;FBAV/188.0.0.44.81;FBBV/123131246;FBDM/{density=2.084,width=720,height=1456};FBLC/en_US;FBCR/Teletalk;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2083;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]',
